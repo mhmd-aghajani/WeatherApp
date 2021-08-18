@@ -5,8 +5,8 @@ import 'package:dio/dio.dart';
 import 'package:flutter/material.dart';
 import 'package:intl/intl.dart';
 import 'package:progress_indicators/progress_indicators.dart';
-import 'package:weather_app/Models/CurrentCityDataModel.dart';
-import 'package:weather_app/Models/ForecastDaysModel.dart';
+import 'Models/CurrentCityDataModel.dart';
+import 'Models/ForecastDaysModel.dart';
 
 void main() {
   runApp(MaterialApp(
